@@ -64,4 +64,8 @@ export default {
 .navbar-margin{
   margin-top: 28px;
 }
+.navbar-nav{
+  background-color: #181818;
+}
+
 </style>
